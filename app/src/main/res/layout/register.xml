@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@color/primaryAccent">
+
+
+    <include android:id="@+id/app_bar"
+        layout="@layout/app_bar"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/register_phoneTextView"
+        android:layout_marginTop="79dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:background="@color/primaryAccent"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/red" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/register_nameEditText"
+        android:hint="@string/name_hint"
+        android:layout_below="@+id/register_phoneTextView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="40dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:lines="1"
+        android:maxLines="1"
+        android:background="@color/bright_foreground_material_dark" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/register"
+        android:id="@+id/register_registerationButton"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:layout_below="@+id/register_re_password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="99dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/register_password"
+        android:inputType="textPassword"
+        android:layout_below="@+id/register_nameEditText"
+        android:hint="@string/pass_hint"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:lines="1"
+        android:maxLines="1"
+        android:layout_marginTop="21dp"
+        android:background="@color/bright_foreground_material_dark"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/register_re_password"
+        android:inputType="textPassword"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:hint="@string/re_pass_hint"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:lines="1"
+        android:maxLines="1"
+        android:background="@color/bright_foreground_material_dark"
+        android:layout_below="@+id/register_password"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="21dp" />
+
+</RelativeLayout>

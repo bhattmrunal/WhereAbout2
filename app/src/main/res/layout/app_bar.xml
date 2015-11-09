@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/primary"
+    android:title="@string/hello_blank_fragment"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+    app:showAsAction="always"
+    app:theme="@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar">
+    <!--android:paddingTop="@dimen/abc_action_bar_icon_vertical_padding_material"
+
+    android:background="@color/primary"
+    -->
+
+</android.support.v7.widget.Toolbar>
+
+    <!--"#44CCFF"-->

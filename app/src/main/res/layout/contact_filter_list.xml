@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:columnCount="3"
+    android:rowCount="10"
+    android:orientation="vertical">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="516dp"
+
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/contactListView"
+        android:dividerHeight="0.1dp"
+        android:divider="#0000CC"
+        android:background="@color/switch_thumb_normal_material_light" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_refresh"
+        android:id="@+id/friends_list_refresh_button"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/MainRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sonal.mrunal.com.whereabout.MapsActivity">
+
+    <include android:id="@+id/app_bar"
+        layout="@layout/app_bar"/>
+
+   <fragment
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/app_bar"
+        android:id="@+id/map"
+        tools:context=".MapsActivity"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        />
+
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:id="@+id/multiple_actions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        app:fab_addButtonColorNormal="@color/red"
+        app:fab_addButtonColorPressed="@color/red_pressed"
+        app:fab_addButtonPlusIconColor="@color/white"
+        app:fab_labelStyle="@style/menu_labels_style"
+        android:layout_marginBottom="17dp"
+        android:layout_marginRight="17dp"
+        android:layout_marginEnd="17dp">
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/action_d"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_icon="@drawable/shutdown"
+            app:fab_colorNormal="@color/exit_primary"
+            app:fab_title="exit"
+            app:fab_colorPressed="@color/exit_primary_pressed"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/action_c"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+        app:fab_icon="@drawable/check_mark"
+        app:fab_colorNormal="@color/bright_green"
+            app:fab_title="No friend request \npending "
+            app:fab_colorPressed="@color/exit_primary_pressed"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/action_a"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_icon="@drawable/add_user"
+            app:fab_colorNormal="@color/brightpurple"
+            app:fab_title="Add Friend"
+            app:fab_colorPressed="@color/brightpurple_pressed"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/action_b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_icon="@drawable/search_icon"
+            app:fab_colorNormal="@color/brown_pressed"
+            app:fab_title="Request Location"
+            app:fab_colorPressed="@color/brown"/>
+    </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+</RelativeLayout>

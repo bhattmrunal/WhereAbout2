@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="primaryDark">#2471B5</color>-->
+     <color name="primary">#44CCFF</color>
+      <color name="primaryDark">#3593C3</color>
+     <!--<color name="primary">#1D62F0</color>
+    <color name="primaryDark">#009926</color>
+    <color name="primary">#0BDE18</color>-->
+    <color name="primaryAccent">#7494EA</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="red">#D50000</color>
+    <color name="red_pressed">#B20000</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <color name="bright_green">#00A100</color>
+    <color name="ok_orange">#FF5500</color>
+    <color name="darkgreenish">#178C76</color>
+    <color name="darkgreenish_pressed">#106656</color>
+
+    <color name="brightpurple">#2B2BFF</color>
+    <color name="brightpurple_pressed">#1E1EB5</color>
+
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="ok_yellow_bright">#F0F000</color>
+    <color name="colorHighlight">#B6B6B6</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorDivider">#B6B6B6</color>
+
+    <color name="brown">#471C0D</color>
+    <color name="brown_pressed">#6D2A11</color>
+
+    <color name="exit_primary">#757575</color>
+    <color name="exit_primary_pressed">#BDBDBD</color>
+    <color name="ok_purple_light">#F50057</color>
+    <color name="ok_purple">#A4243B</color>
+    <color name="ok_purple_dark">#BB243B</color>
+
+    <color name="sky_blue">#12A5F4</color>
+
+    <color name="colorPrimaryLogin">#F50057</color>
+    <color name="colorPrimaryDarkLogin">#C51162</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccentLogin">#FF80AB</color>
+</resources>

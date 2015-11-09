@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-7f4cc74520b3fd9097275dc6a088a8b46eb03e25.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-c728f56d14f04c43821d054c9b34b4e1cf2aec95.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-1502d2937b657ce3a8dff54a858ab8a17438b022.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4b681a6084ef53d2825520fc77fcaddde351f64">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-f0dd1d12afbd0838c60d62499d4b4262fad5844a.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-37f8a7389db8fc0b13d9e04522b776b1f415b691.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-2ee5190dd72653df3a4b5c489500305cabfec407.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-db3df86b7c9e0c6482620f39f1f124765ffd4418.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-4e5faa3219c58396625add98d7514382cecde163.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-3bc242dfd72398192babfb8aff657e786469c119.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-bfc3232398831e3736514fefbbc649dd442e2f41.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-056d48c6564ec0dc8454a938a8cf4af439d043a5.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-6fd101a36a7f98ca453dbc0c20168e07628a7ce6.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-257d1512c72fd4b01990bd2a8daad1002e5cb66b.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-b8eee1f1a2759fe7dadb710a7e8f32c81c80caaa.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-777fc0f8df325d3fabcbb573349ade4d696a47f6.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-b088a211819961e9250001e283b524f8ac031994.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-b6af2a0fcfb6afeb877930f510ada0af8c12752a.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-85770724f74475548b2a66224d32a5bd5bc6955e.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-13957ce05719b12d475bc6418bd9288ac76de86c.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-d6408fdb096b1835cffc1b29d5cfae17677824a5.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-8cbaec100e54fa008c91963d84fd8b1a046d9dd7.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-7380237ac666608ddd91e366cc384ad5f30f635a.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-98432487707f4653e713aeec7bd437fefa1b6b5c.jar" />
+    </item>
+    <item
+        jar="/home/mrunal/install/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-ea72379f8490e7fc0b440b0c5732d18a168ed818.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-cb8a793f3b1f7f0dc27f96703588060dc5198ec7.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-67b785957d1a9ee19c3245ab7ac88ce4caa04d8f.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-41d8db913186714b8603e12012172823b63e0142.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-64a12edacf7304da52030c8b16b86903f3605d13.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-6472ff49925ef9412762a9190cc2dce9c0d868be.jar" />
+    </item>
+    <item
+        jar="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/media/mrunal/Data/github/Android/WhereAbout2/app/build/intermediates/pre-dexed/debug/classes-28dc84af3ba397dfe29c1434512993c1bf2f4fde.jar" />
+    </item>
+
+</items>
